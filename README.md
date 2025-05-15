@@ -35,7 +35,7 @@ Ensure your environment meets these requirements before installing Nexora:
    ```bash
    git clone https://github.com/fluxis/nexora.git
    cd nexora
-````
+   ```
 
 2. **Install Dependencies**
 
@@ -43,7 +43,7 @@ Ensure your environment meets these requirements before installing Nexora:
    npm install
    # or yarn install
    ```
-
+   
 3. **Configure Nexora**
 
    * Duplicate the example config:
